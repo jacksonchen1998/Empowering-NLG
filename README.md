@@ -26,6 +26,23 @@ The contribution of this work lies in providing a novel approach to generating n
 
 ![Arch](./image/empower_nlg.png)
 
+## Program information
+
+- `dataprepare.py`: Data preprocessing
+- `infer_gpt.py`: Infer GPT-2 model with unput text
+- `infer_score.py`: Infer score with input text
+- `model.py`: Score model based on GPT-2 and RoBERTa
+- `trainRL.py`: Train PPO model, using GPT-2 and score model
+- `traingpt.py`: Train GPT-2 model
+- `trainscore.py`: Train score model
+
+## Workflow
+
+1. Data preprocessing
+2. Train Score model (RoBERTa)
+3. Train GPT-2 model
+4. Train PPO model
+
 ## Training data sample Output (reply, score)
 
 - Keyword: Covid-19
