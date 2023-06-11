@@ -1,6 +1,6 @@
 # Empowering-NLG
 
-[![license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENSE)
+[![license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENSE) [![Release](https://img.shields.io/github/v/release/jacksonchen1998/Empowering-NLG)](https://github.com/jacksonchen1998/Empowering-NLG/releases/)
 
 | [Paper]() | [Code](https://github.com/jacksonchen1998/Empowering-NLG) | [Slide]() |
 
