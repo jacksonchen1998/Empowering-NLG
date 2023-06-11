@@ -2,9 +2,11 @@
 
 [![license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENSE)
 
+| [Paper]() | [Code](https://github.com/jacksonchen1998/Empowering-NLG) | [Slide]() |
+
 Official code for Empower NLG: Offline Reinforcement Learning for Informal Summarization in Online Domains
 
-Code author: Zhi-Xuan Tai
+Code author: Zhi-Xuan Tai [contact email](will0010077.ee11@nycu.edu.tw)
 
 ## Abstract
 
@@ -60,6 +62,14 @@ The contribution of this work lies in providing a novel approach to generating n
 ```
 
 ## Citation
+
+### Paper Citation
+
+```
+
+```
+
+### Code Citation
 
 ```
 @misc{20230611,
