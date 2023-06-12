@@ -20,7 +20,9 @@ The contribution of this work lies in providing a novel approach to generating n
 
 ## Dataset
 
-[Famous Keyword Twitter Replies](https://www.kaggle.com/datasets/jackksoncsie/famous-keyword-twitter-replies-dataset)
+We crawl the Twitter data using [Twitter-Crawler](https://github.com/jacksonchen1998/Twitter-Crawler).
+
+The dataset called [Famous Keyword Twitter Replies](https://www.kaggle.com/datasets/jackksoncsie/famous-keyword-twitter-replies-dataset).
 
 ## Architecture
 
