@@ -2,7 +2,7 @@
 
 [![license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENSE) [![Release](https://img.shields.io/github/v/release/jacksonchen1998/Empowering-NLG)](https://github.com/jacksonchen1998/Empowering-NLG/releases/)
 
-| [Paper]() | [Code](https://github.com/jacksonchen1998/Empowering-NLG) | [Slide](https://www.slideshare.net/jacksonChen22/offline-reinforcement-learning-for-informal-summarization-in-online-domainspdf) |
+| [Paper]() | [Code](https://github.com/jacksonchen1998/Empowering-NLG) | [Slide](https://www.slideshare.net/jacksonChen22/offline-reinforcement-learning-for-informal-summarization-in-online-domainspdf-258382461) |
 
 Official code for Empower NLG: Offline Reinforcement Learning for Informal Summarization in Online Domains
 
