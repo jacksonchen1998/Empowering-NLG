@@ -6,7 +6,7 @@
 
 Official code for Empower NLG: Offline Reinforcement Learning for Informal Summarization in Online Domains
 
-Code author: Zhi-Xuan Tai [contact email](will0010077.ee11@nycu.edu.tw)
+Code author: [Zhi-Xuan Tai](https://github.com/will0010077)
 
 ## Abstract
 
