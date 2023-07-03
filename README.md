@@ -85,7 +85,14 @@ The dataset called [Famous Keyword Twitter Replies](https://www.kaggle.com/datas
 ### Paper Citation
 
 ```
-
+@misc{tai2023empowering,
+      title={Empowering NLG: Offline Reinforcement Learning for Informal Summarization in Online Domains}, 
+      author={Zhi-Xuan Tai and Po-Chuan Chen},
+      year={2023},
+      eprint={2306.17174},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
 ### Code Citation
